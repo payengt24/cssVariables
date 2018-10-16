@@ -1,3 +1,3 @@
 # cssVariables
 
-## wesBos Playing with CSS Variables and JS
+* wesBos Playing with CSS Variables and JS
